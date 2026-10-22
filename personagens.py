@@ -48,3 +48,4 @@ def listar(conn):
     """Devolve uma LISTA com todos os personagens."""
     # TODO
     raise NotImplementedError
+#dscdagabh
